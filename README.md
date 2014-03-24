@@ -1,4 +1,4 @@
-myfirstappG1
+myfirstapp
 ============
 
 Example source code seen in class.
